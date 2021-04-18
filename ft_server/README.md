@@ -16,7 +16,7 @@ and a SQL database.
 # How to run
 **Build docker image**
 ```
-docker build -t ft_server.
+docker build -t ft_server .
 ```
 
 **Run docker container**
