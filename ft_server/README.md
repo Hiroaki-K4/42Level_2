@@ -3,6 +3,8 @@ This topic is intended to introduce you to system administration. It will make y
 For that, you will discover the "docker" technology and use it to install a complete web server. This server will run multiples services: Wordpress, phpMyAdmin, 
 and a SQL database.
 
+![ft_server](https://user-images.githubusercontent.com/51109408/115331112-4a7e6900-a1d0-11eb-8cb7-781b14b667ca.png)
+
 <br>
 
 # Referenced links
